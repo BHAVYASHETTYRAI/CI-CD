@@ -9,9 +9,8 @@
   <select id="country" name="country">
     <option value="australia">Australia</option>
     <option value="canada">Canada</option>
-    <option value="Turkey">Turkey</option>
+    <option value="usa">USA</option>
   </select>
 
   <input type="submit" value="Submit">
 </form>
-
